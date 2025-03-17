@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ai&ml in bit mesra
 - 💞️ I’m looking to collaborate on ml projects
 - 📫 How to reach me anujkrkush@gmail.com
-<!---
-Anujkrkush/Anujkrkush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Professional Summary:
+Highly motivated B.Tech student in Artificial Intelligence and Machine Learning with hands-on experience in data
+analysis, model building, and visualization. Proven track record of improving prediction accuracy and reducing
+processing time by implementing robust machine learning pipelines. Adept at translating complex datasets into
+actionable insights and committed to delivering innovative solutions.
